@@ -1,9 +1,4 @@
 # arac-kiralama-sistemi
-Görseldeki **Banka Otomasyon Sistemi** sunum/dokümantasyon yapısını, senin bir önceki **Araç Kiralama Sistemi** projene birebir uyarladım.
-
-Sunum slaytlarında veya proje raporunda kullanabilmen için aynı başlık düzenini, OOP vurgularını ve liste yapısını aşağıda bulabilirsin:
-
----
 
 ## Proje Amacı
 
